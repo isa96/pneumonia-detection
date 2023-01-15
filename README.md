@@ -27,6 +27,5 @@ To use ```main.py```, the model is in ```.pth``` format. My ```.pth``` saved mod
 | ![Image2](https://github.com/Clayrisee/PneumoniaNet/blob/main/test_image/test_2.jpeg)     | Pneumonia |
 | ![Image3](https://github.com/Clayrisee/PneumoniaNet/blob/main/test_image/test_3.jpeg)     | Normal |
 
-## Othe Version using ResNet50
-I Also build another version of this project using ResNet50 backbone, you can visit this [Repository](https://www.github.com/Clayrisee/PneumoniaNetResNet50)
+
 
