@@ -8,12 +8,11 @@ fine-tune it with my own dataset (which I got from this [Kaggle](https://www.kag
 ## Installation Guide
 For installation options, currently I don't provide the docker image yet. But you can run this simply by clone or fork this repository.
 
-* Clone this repository in your local with this command ```git clone https://github.com/Clayrisee/PneumoniaNet.git```
+* Clone this repository in your local with this command ```git clone https://github.com/isa96/pneumonia-detection.git```
 * Install the requirement modules ```pip install -r requirements.txt```
 * If the module already satisfied, you can run the main.py
 ### Main.py
-To use ```main.py```, the model is in ```.pth``` format. My ```.pth``` saved model is in [this](https://github.com/Clayrisee/PneumoniaNet/blob/main/pretrain_weight/PneumoniaNet.txt) folder.
-
+To use ```main.py```, the model is in ```.pth``` format.
 1. See details arguments
 ```python main.py -h```
 
